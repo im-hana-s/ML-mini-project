@@ -1,0 +1,682 @@
+﻿Volcano,"Type of data","Monitoring Start Time","Monitoring End Time","No. of Eurption","No. of data"
+Acatenango,"Seismic event","1951-07-25 18:42:23","2020-11-06 23:29:29",1,903
+Adatara,"Seismic event","1921-05-11 21:29:36","2019-02-27 08:32:15",1,35182
+Agung,"Seismic event","1963-05-18 12:20:32","2020-05-10 22:09:56",1,674
+Agung,"Thermal from Satellite/Airplane","2001-04-09 00:00:00","2022-04-03 00:00:00",1,409
+Ahyi,"Seismic event","1937-05-28 07:11:52","2020-11-22 09:48:00",3,73
+Ahyi,"Thermal from Satellite/Airplane","2001-03-23 00:00:00","2022-06-21 00:00:00",2,61
+"Akademia Nauk","Seismic event","1958-06-26 04:38:26","2020-11-05 23:04:35",1,2000
+Akagi,"Seismic event","1920-02-03 02:58:08","2019-02-28 23:49:38",1,41728
+Akan,GPS,"2002-01-01 00:00:00","2014-01-31 00:00:00",2,13542
+Akan,"Seismic event","1927-01-17 11:20:47","2019-02-28 17:28:24",19,8455
+Akan,"Seismic swarm","1959-09-01 00:00:00","2014-01-30 00:00:00",11,5465
+Akan,"Single station event","2002-01-02 02:15:30","2014-01-30 22:50:00",2,120467
+Akan,"Thermal from Satellite/Airplane","2000-10-18 00:00:00","2022-03-28 00:00:00",2,102
+Akan,"Volcanic tremor","1959-09-01 00:00:00","2003-01-01 02:07:51",9,56
+Akita-Yake-yama,"Seismic event","1931-01-09 01:45:40","2019-02-28 16:51:51",7,24753
+Akutan,"Seismic event","1957-03-17 22:44:44","2020-12-09 03:20:08",17,5620
+Alaid,"Seismic event","1968-02-29 09:04:10","2020-04-13 09:45:49",11,47
+Alaid,"Thermal from Satellite/Airplane","2001-01-07 00:00:00","2022-05-16 00:00:00",3,375
+Alcedo,"Seismic event","1968-06-15 08:50:43","2020-01-21 12:17:45",1,69
+Alu,"Seismic event","1988-03-23 23:55:10","2020-09-19 11:57:41",1,129
+Alu,"Thermal from Satellite/Airplane","2000-11-02 00:00:00","2022-06-01 00:00:00",1,230
+Ambang,"Seismic event","1951-05-20 07:08:14","2020-11-15 08:37:23",1,107
+Ambang,"Thermal from Satellite/Airplane","2005-02-14 00:00:00","2022-06-21 00:00:00",1,18
+Ambrym,"Seismic event","1939-08-12 02:07:29","2020-12-12 04:35:28",33,838
+Ambrym,"Thermal from Satellite/Airplane","2000-04-04 12:00:00","2022-05-05 00:00:00",2,2657
+Amukta,"Seismic event","1956-01-04 06:42:37","2020-11-13 03:50:27",4,274
+Anatahan,"Seismic event","1964-06-25 22:19:38","2020-11-03 15:20:13",4,93
+Anatahan,"Thermal from Satellite/Airplane","2003-05-10 15:55:00","2020-12-31 00:00:00",3,301
+Aoba,"Seismic event","1934-06-03 16:15:40","2020-12-13 18:21:48",4,4728
+Aoba,"Thermal from Satellite/Airplane","2000-04-06 11:45:00","2019-12-16 14:30:00",3,670
+"Apaneca Range","Seismic event","1918-10-19 03:23:04","2020-11-23 07:21:49",1,1324
+Aracar,"Seismic event","1956-03-26 05:21:20","2020-09-17 05:50:49",1,612
+Ardoukôba,"Seismic event","1960-01-04 06:16:35","2013-12-29 20:32:41",1,41
+Arenal,"Seismic event","1950-10-17 14:56:31","2020-12-28 17:12:23",1,339
+Asama,GPS,"2002-01-01 00:00:00","2014-01-31 00:00:00",4,16059
+Asama,Plume,"2002-07-04 05:00:00","2012-03-14 05:00:00",4,166
+Asama,"Seismic event","1919-03-13 22:14:15","2019-02-28 20:32:14",35,6791
+Asama,"Seismic swarm","1994-01-01 00:00:00","2014-01-31 00:00:00",4,17285
+Asama,"Single station event","2002-01-01 00:16:00","2014-01-31 03:14:05",4,525113
+Asama,"Thermal from Satellite/Airplane","2000-11-29 00:00:00","2022-03-24 00:00:00",6,378
+Asama,Tilt,"2002-05-03 00:00:00","2013-12-31 00:00:00",4,6594
+Asama,"Volcanic tremor","2003-02-06 12:00:00","2009-02-17 21:16:00",3,462
+Askja,"Seismic event","1961-10-06 12:40:37","2019-11-09 21:36:52",1,32
+Aso,GPS,"2002-01-30 00:00:00","2014-01-31 00:00:00",6,10641
+Aso,"Seismic event","1924-02-04 03:12:57","2019-02-28 17:22:59",64,87327
+Aso,"Seismic swarm","1994-01-01 00:00:00","2014-01-31 00:00:00",7,10515
+Aso,"Single station event","2002-01-01 04:17:32","2014-01-31 23:47:00",6,245314
+Aso,"Thermal from Satellite/Airplane","2000-11-07 13:40:00","2022-05-21 00:00:00",9,767
+Aso,Tilt,"2002-01-02 00:00:00","2014-01-31 00:00:00",6,3296
+Aso,"Volcanic tremor","2002-03-08 03:32:00","2012-09-08 01:36:00",5,4038
+Atka,"Seismic event","1962-03-07 19:08:46","2020-09-23 01:17:28",2,3217
+Atosanupuri,"Seismic event","1924-06-30 15:44:28","1999-11-08 16:22:16",1,72
+Augustine,GPV,"2000-09-16 00:00:00","2022-09-24 00:00:00",1,98042
+Augustine,"Plume from Satellite/Airplane","1991-06-13 12:00:00","2008-07-17 12:00:00",1,126
+Augustine,"Seismic event","1963-01-27 11:47:35","2020-12-23 18:32:34",5,13006
+Augustine,"Thermal from Satellite/Airplane","2000-09-28 00:00:00","2022-05-29 00:00:00",1,262
+Avachinsky,"Seismic event","1957-01-01 00:56:40","2020-08-06 03:37:49",2,1592
+Avachinsky,"Thermal from Satellite/Airplane","2001-03-14 00:00:00","2022-04-18 00:00:00",1,18
+Awu,"Seismic event","1966-09-10 06:29:59","2020-10-22 10:10:52",3,128
+Awu,"Thermal from Satellite/Airplane","2002-06-07 00:00:00","2022-03-10 00:00:00",1,27
+"Axial Seamount","Seismic event","1966-04-01 02:39:10","2015-04-24 14:45:36",4,7
+Azul,"Seismic event","1945-01-17 03:59:24","2014-11-06 09:35:19",2,93
+"Azul, Cerro",GPV,"2006-07-01 00:00:00","2022-05-30 00:00:00",1,8753
+"Azul, Cerro",InSAR,"1999-03-20 00:00:00","2017-10-10 00:00:00",1,346
+"Azul, Cerro","Seismic event","1968-06-16 16:20:13","2020-01-25 21:40:01",3,35
+"Azul, Cerro","Thermal from Satellite/Airplane","2002-03-15 00:00:00","2021-11-30 00:00:00",1,176
+Azuma,"Seismic event","1921-05-11 21:29:36","2019-02-28 20:27:07",4,62157
+Bagana,"Seismic event","1932-01-31 16:01:05","2020-10-19 22:30:08",18,209
+Bam,"Seismic event","1935-10-11 22:15:57","2020-04-18 14:10:07",11,127
+"Banda Api","Seismic event","1973-07-20 06:17:34","2020-06-28 10:05:24",1,103
+"Banua Wuhu","Seismic event","1954-12-07 14:48:44","2020-09-15 19:09:41",1,121
+Baransky,"Seismic event","1938-08-17 01:45:35","1999-12-13 16:18:26",1,52
+Bárdarbunga,GPV,"2008-08-29 00:00:00","2019-10-17 00:00:00",1,2671
+Bárdarbunga,"Seismic event","1958-11-14 13:29:11","2020-12-21 11:37:51",11,897
+Bárdarbunga,"Thermal from Satellite/Airplane","2002-02-08 00:00:00","2022-04-29 00:00:00",5,789
+"Barren Island","Seismic event","1970-03-01 10:29:20","2020-06-22 04:50:21",11,28
+"Barren Island","Thermal from Satellite/Airplane","2001-03-28 00:00:00","2021-12-25 00:00:00",8,1830
+Batur,"Seismic event","1963-05-18 12:20:32","2019-11-27 17:23:23",13,669
+"Bayonnaise Rocks","Seismic event","1926-09-26 01:00:39","2019-02-25 00:52:40",18,108
+Bezymianny,"Seismic event","1955-02-13 17:16:57","2020-12-09 13:08:48",52,14985
+Bezymianny,"Thermal from Satellite/Airplane","2000-04-04 10:40:00","2022-05-31 00:00:00",12,4629
+Bogoslof,"Seismic event","1960-12-22 14:27:40","2017-06-13 03:19:39",2,269
+Bogoslof,"Thermal from Satellite/Airplane","2001-02-07 00:00:00","2022-03-05 00:00:00",1,29
+"Boomerang Seamount","Seismic event","1963-06-06 12:04:14","2021-10-04 17:40:50",1,41
+"Bristol Island","Seismic event","1961-09-01 00:09:39","2021-05-08 10:14:57",1,78
+"Bristol Island","Thermal from Satellite/Airplane","2002-07-21 00:00:00","2021-07-30 00:00:00",1,253
+Bulusan,"Seismic event","1954-07-02 02:45:12","2020-01-11 01:17:37",13,75
+Bulusan,"Thermal from Satellite/Airplane","2001-07-06 00:00:00","2022-03-26 00:00:00",7,68
+Calbuco,InSAR,"2007-04-26 00:00:00","2016-06-01 00:00:00",1,59
+Calbuco,"Thermal from Satellite/Airplane","2001-12-22 00:00:00","2022-09-27 00:00:00",1,93
+Callaqui,"Seismic event","1991-02-21 06:54:07","2013-12-25 21:10:41",2,10
+"Candlemas Island","Seismic event","1943-11-04 06:45:44","2021-01-04 12:16:16",1,65
+Carlisle,"Seismic event","1945-09-26 03:36:50","2020-06-15 08:35:20",1,606
+"Carrán-Los Venados","Seismic event","1960-08-03 01:13:39","2011-12-17 17:32:12",1,84
+Cereme,"Seismic event","1968-01-19 14:12:03","2019-11-03 18:13:36",1,57
+Chaitén,InSAR,"2007-04-14 00:00:00","2010-10-23 00:00:00",1,38
+Chaitén,"Seismic event","2008-05-01 03:52:13","2009-12-26 03:37:14",1,1588
+Chaitén,"Thermal from Satellite/Airplane","2000-10-16 00:00:00","2022-04-29 00:00:00",1,2547
+"Chichón, El","Seismic event","1970-01-26 14:06:42","2016-03-16 19:48:11",1,44
+Chiginagak,"Seismic event","1964-04-02 05:32:23","2020-12-12 13:18:24",2,352
+Chikurachki,"Seismic event","1953-01-17 17:30:05","2017-04-28 11:37:09",16,28
+Chikurachki,"Thermal from Satellite/Airplane","2003-02-14 00:00:00","2021-08-17 00:00:00",8,44
+"Chillán, Nevados de","Seismic event","1982-05-07 09:03:50","2014-05-24 16:03:53",2,53
+"Chillán, Nevados de","Thermal from Satellite/Airplane","2001-02-07 00:00:00","2022-05-17 00:00:00",3,740
+Chirinkotan,"Seismic event","1949-11-03 01:12:39","1999-07-21 07:32:49",3,28
+Chirinkotan,"Thermal from Satellite/Airplane","2001-12-23 00:00:00","2022-07-01 00:00:00",4,419
+Chirpoi,"Seismic event","1918-09-07 17:16:23","1999-05-01 11:22:41",2,44
+Chirpoi,"Thermal from Satellite/Airplane","2003-02-10 00:00:00","2022-05-12 00:00:00",1,925
+Chokai,"Seismic event","1924-10-25 05:37:08","2019-02-27 10:26:15",1,1357
+"Cleft Segment","Seismic event","1940-11-17 03:56:30","2015-06-02 02:20:45",2,33
+Cleveland,"Seismic event","1945-09-26 03:36:50","2020-06-15 08:35:20",27,1666
+Cleveland,"Thermal from Satellite/Airplane","2000-10-11 00:00:00","2022-07-02 00:00:00",16,1069
+"CoAxial Segment","Seismic event","1966-04-01 02:39:09","1998-01-26 15:17:59",2,2
+Colima,"Directly sampled gas","1996-01-20 12:00:00","1998-07-08 12:00:00",1,108
+Colima,EDM,"1996-12-13 00:00:00","2000-06-14 00:00:00",1,186
+Colima,Plume,"1994-07-16 00:00:00","2016-06-18 00:00:00",4,351
+Colima,"Plume from Satellite/Airplane","1991-04-30 00:00:00","2004-10-18 00:00:00",2,86
+Colima,"Seismic event","1932-11-17 06:02:58","2020-06-30 07:05:29",17,105
+Colima,Thermal,"1997-10-07 00:00:00","2000-07-10 00:00:00",1,409
+Colima,"Thermal from Satellite/Airplane","2000-11-18 05:05:00","2022-05-28 00:00:00",3,1979
+"Colo [Una Una]","Seismic event","1957-04-27 00:09:47","2020-12-27 10:31:16",1,266
+Concepción,"Seismic event","1931-03-07 00:41:56","2020-12-28 23:23:02",23,621
+Concepción,"Thermal from Satellite/Airplane","2002-04-06 00:00:00","2022-02-24 00:00:00",6,15
+Copahue,InSAR,"2002-12-26 00:00:00","2016-09-26 00:00:00",3,227
+Copahue,Plume,"2014-11-09 00:00:00","2016-11-27 00:00:00",1,288
+Copahue,"Seismic event","1990-06-16 15:34:46","2014-03-11 01:25:53",5,17
+Copahue,"Thermal from Satellite/Airplane","2000-07-05 04:00:00","2022-05-08 00:00:00",6,726
+Cotopaxi,GPV,"2007-01-01 00:00:00","2022-10-15 00:00:00",1,5579
+Cotopaxi,InSAR,"2014-08-06 00:00:00","2016-04-21 00:00:00",1,25
+Cotopaxi,Plume,"2015-06-28 00:00:00","2017-01-29 00:00:00",1,447
+Cotopaxi,"Thermal from Satellite/Airplane","2002-12-20 00:00:00","2022-01-09 00:00:00",1,74
+Curacoa,"Seismic event","1939-06-17 12:02:49","2020-11-16 07:50:57",2,552
+"Curtis Island","Seismic event","1932-04-03 20:39:02","2020-12-27 08:52:30",2,408
+Dabbahu,"Seismic event","1977-12-05 10:02:57","2020-04-29 16:26:05",1,4082
+Dabbahu,"Thermal from Satellite/Airplane","2001-06-07 00:00:00","2022-06-01 00:00:00",1,127
+Dallol,"Seismic event","1993-05-02 10:08:11","2019-01-27 21:22:55",1,28
+Dallol,"Thermal from Satellite/Airplane","2000-10-10 00:00:00","2022-06-01 00:00:00",1,200
+"Deception Island","Seismic event","1967-12-04 20:28:28","2014-10-15 11:52:22",4,33
+Dempo,"Seismic event","1936-01-22 09:25:25","2020-05-17 03:39:43",11,80
+Dempo,"Thermal from Satellite/Airplane","2002-08-26 00:00:00","2022-05-13 00:00:00",3,24
+Didicas,"Seismic event","1962-03-05 16:46:21","2020-06-07 05:00:23",2,55
+"Dieng Volc Complex","Seismic event","1966-01-26 04:20:29","2019-09-26 16:54:18",10,30
+"Dieng Volc Complex","Thermal from Satellite/Airplane","2002-08-30 00:00:00","2018-11-23 00:00:00",5,13
+"Don Joao de Castro Bank","Seismic event","1933-08-15 00:45:04","2020-12-30 04:31:46",1,1556
+Dzenzursky,"Seismic event","1952-11-09 05:06:33","2020-11-24 14:48:43",1,670
+"Eastern Gemini Seamount","Seismic event","1910-03-30 16:55:48","2020-06-19 18:51:56",1,178
+Ebeko,"Seismic event","1939-08-01 15:55:59","2020-06-26 01:43:36",12,76
+Ebeko,"Thermal from Satellite/Airplane","2002-08-29 00:00:00","2022-05-16 00:00:00",4,23
+Ebulobo,"Seismic event","1964-08-06 07:12:03","2020-09-05 14:05:26",2,52
+Egon,"Seismic event","1973-07-11 10:12:01","2020-01-16 20:29:30",4,93
+Egon,"Thermal from Satellite/Airplane","2002-06-28 00:00:00","2021-12-16 00:00:00",4,15
+Ekarma,"Seismic event","1930-05-01 01:19:48","1999-09-06 06:28:50",1,34
+Ekarma,"Thermal from Satellite/Airplane","2005-02-01 00:00:00","2022-07-03 00:00:00",1,26
+Epi,"Seismic event","1950-06-14 04:42:02","2020-10-30 18:55:19",13,165
+"Esmeralda Bank","Seismic event","1954-05-24 08:14:40","2019-10-14 20:05:51",5,24
+Etna,Plume,"1977-07-25 00:00:00","2011-02-21 00:00:00",35,903
+Etna,"Seismic event","1952-03-19 08:13:41","2020-12-31 23:27:15",50,6767
+Etna,"Soil efflux","2013-01-01 00:00:00","2013-12-31 23:00:00",1,131499
+Etna,"Thermal from Satellite/Airplane","2000-04-01 21:35:00","2022-06-03 00:00:00",14,6545
+Eyjafjöll,"Seismic event","1958-05-19 17:25:37","2018-08-02 12:55:23",1,43
+Eyjafjöll,"Thermal from Satellite/Airplane","2000-11-22 00:00:00","2022-01-03 00:00:00",1,122
+"Falcon Island","Seismic event","1961-09-04 22:33:35","2020-12-20 07:37:32",1,157
+"Farallon de Pajaros","Seismic event","1962-01-30 15:22:49","2020-11-22 09:48:00",1,80
+Fernandina,"Seismic event","1962-02-18 23:25:26","2020-02-02 10:08:47",16,143
+Fernandina,"Thermal from Satellite/Airplane","2002-03-15 00:00:00","2021-11-30 00:00:00",5,203
+Fogo,"Thermal from Satellite/Airplane","2000-12-11 00:00:00","2022-03-03 00:00:00",1,321
+Fonualei,"Seismic event","1959-03-15 21:28:24","2020-12-10 07:17:40",1,200
+"Fournaise, Piton de la",Plume,"2011-04-30 00:00:00","2016-09-16 00:00:00",4,22
+"Fournaise, Piton de la","Thermal from Satellite/Airplane","2000-06-24 19:15:00","2022-03-01 00:00:00",23,2332
+Fourpeaked,"Seismic event","1964-03-29 00:43:14","2020-10-22 16:01:37",1,2322
+Fourpeaked,"Thermal from Satellite/Airplane","2003-11-15 00:00:00","2022-04-27 00:00:00",1,66
+Fuego,"Seismic event","1951-07-25 18:42:23","2020-11-06 23:29:29",17,890
+Fuego,"Thermal from Satellite/Airplane","2000-04-03 04:45:00","2022-03-17 00:00:00",1,4867
+Fukujin,"Seismic event","1922-07-11 23:13:15","2020-12-08 13:30:35",13,495
+Fukutoku-Okanoba,"Seismic event","1937-05-29 04:56:06","2020-09-19 02:29:00",35,121
+Fukutoku-Okanoba,"Thermal from Satellite/Airplane","2002-04-18 00:00:00","2022-01-03 00:00:00",4,51
+"Galápagos Rift","Seismic event","1944-06-11 19:18:56","2017-05-06 04:08:59",2,4
+Galeras,InSAR,"2007-08-05 00:00:00","2010-12-29 00:00:00",3,15
+Galeras,Plume,"2007-11-14 00:00:00","2014-03-29 00:00:00",4,704
+Galeras,"Thermal from Satellite/Airplane","2002-01-20 00:00:00","2021-09-05 00:00:00",8,156
+Galunggung,"Seismic event","1974-04-21 20:24:35","2019-11-03 18:13:36",2,41
+Gamalama,"Seismic event","1975-07-31 18:45:14","2020-12-21 04:52:40",17,405
+Gamalama,"Thermal from Satellite/Airplane","2002-10-06 00:00:00","2021-11-06 00:00:00",9,12
+Gamkonora,"Seismic event","1944-10-14 20:16:15","2020-12-18 07:43:49",8,343
+Gamkonora,"Thermal from Satellite/Airplane","2002-08-19 00:00:00","2021-08-23 00:00:00",2,29
+"Garbuna Group","Seismic event","1937-08-05 14:43:58","2020-10-18 12:13:00",3,224
+"Garbuna Group","Thermal from Satellite/Airplane","2002-06-05 00:00:00","2010-11-11 00:00:00",3,4
+Gareloi,"Seismic event","1912-01-04 15:46:54","2020-10-27 04:41:40",10,9631
+Gaua,"Seismic event","1946-10-22 10:00:18","2020-10-28 14:12:57",16,1255
+Gaua,"Thermal from Satellite/Airplane","2000-05-17 11:40:00","2022-04-12 00:00:00",2,93
+Gede,"Seismic event","1924-06-22 16:36:43","2019-11-14 19:10:52",5,176
+Gorely,"Seismic event","1952-12-25 23:08:45","2020-08-23 09:50:50",4,782
+Gorely,"Thermal from Satellite/Airplane","2001-04-08 00:00:00","2021-01-07 00:00:00",1,371
+"Great Sitkin","Seismic event","1926-10-13 19:08:07","2020-08-18 08:18:59",10,4412
+"Great Sitkin","Thermal from Satellite/Airplane","2011-03-26 00:00:00","2021-08-21 00:00:00",2,7
+Grimsvötn,"Seismic event","1959-02-02 15:54:12","2020-12-21 11:37:51",7,725
+Grimsvötn,"Thermal from Satellite/Airplane","2005-02-09 00:00:00","2021-12-04 00:00:00",1,15
+"Grozny Group","Seismic event","1938-08-17 01:45:35","1999-11-13 00:24:40",5,57
+"Grozny Group","Thermal from Satellite/Airplane","2001-07-19 00:00:00","2022-04-01 00:00:00",2,36
+"Guagua Pichincha",InSAR,"2006-12-23 00:00:00","2010-08-18 00:00:00",2,15
+"Guagua Pichincha","Thermal from Satellite/Airplane","2004-08-12 00:00:00","2021-09-03 00:00:00",2,54
+Guallatiri,"Seismic event","1949-09-18 12:45:54","2020-10-13 15:44:57",3,211
+Hakone,"Seismic event","1920-04-24 00:07:57","2019-02-28 01:55:17",1,45457
+Hakone,"Thermal from Satellite/Airplane","2000-12-24 00:00:00","2022-04-09 00:00:00",1,92
+Haleakala,"Seismic event","1959-03-06 14:31:29","2020-09-05 07:43:19",1,153
+Heard,"Thermal from Satellite/Airplane","2000-04-24 19:35:00","2020-12-12 00:00:00",3,1654
+Hekla,"Seismic event","1912-05-06 19:00:00","2020-07-27 07:41:33",7,14
+Hierro,GPV,"2011-06-01 00:00:00","2012-04-30 00:00:00",1,845
+Hierro,"Seismic event","2011-03-22 17:58:56","2014-12-30 04:06:09",1,25571
+Hierro,"Thermal from Satellite/Airplane","2006-08-11 00:00:00","2022-08-16 00:00:00",1,53
+"Home Reef","Seismic event","1947-07-13 12:57:35","2020-11-27 05:42:52",2,188
+"Home Reef","Thermal from Satellite/Airplane","2002-06-27 00:00:00","2019-12-03 00:00:00",1,8
+"Hudson, Cerro","Seismic event","1960-06-06 05:55:48","2011-10-26 03:20:25",3,33
+"Hudson, Cerro","Thermal from Satellite/Airplane","2005-04-12 00:00:00","2022-03-26 00:00:00",1,44
+"Huila, Nevado del",InSAR,"2007-08-29 00:00:00","2011-03-09 00:00:00",2,14
+"Hunga Tonga-Hunga Ha'apai","Seismic event","1959-03-04 18:55:08","2020-12-20 07:37:32",3,139
+"Hunga Tonga-Hunga Ha'apai","Thermal from Satellite/Airplane","2001-07-17 00:00:00","2022-05-31 00:00:00",2,87
+"Hunter Island","Seismic event","1934-04-26 07:56:52","2020-10-24 15:55:58",1,60
+Ibu,"Seismic event","1944-10-14 20:16:15","2020-12-27 06:02:35",4,320
+Ibu,"Thermal from Satellite/Airplane","2000-11-05 13:45:00","2021-08-23 00:00:00",3,2766
+Ijen,Meteorology,"1991-01-08 00:00:00","2010-03-31 00:00:00",5,855
+Ijen,"Seismic event","1960-05-21 11:47:03","2019-12-02 22:35:44",5,142
+Ijen,"Seismic swarm","1991-01-08 00:00:00","2010-03-31 00:00:00",5,3444
+Ijen,Thermal,"1991-01-08 00:00:00","2012-05-31 00:00:00",5,751
+Ijen,"Thermal from Satellite/Airplane","2000-05-31 15:10:00","2019-12-21 15:00:00",2,1542
+Iliamna,"Seismic event","1959-06-04 12:31:58","2020-12-26 04:31:34",2,18883
+Iliboleng,"Seismic event","1944-03-22 00:43:13","2019-10-27 22:32:15",14,105
+Iliwerung,"Seismic event","1944-03-22 00:43:13","2020-05-04 08:45:05",11,119
+Iliwerung,"Thermal from Satellite/Airplane","2001-07-11 00:00:00","2021-07-02 00:00:00",1,51
+Inielika,"Seismic event","1928-11-28 10:43:12","2020-09-05 14:05:26",1,52
+"Ioto [Iwo-jima]","Seismic event","1964-09-27 01:27:22","2020-12-23 09:41:55",16,134
+"Ioto [Iwo-jima]","Thermal from Satellite/Airplane","2002-10-02 00:00:00","2022-06-19 00:00:00",3,49
+Irazú,"Seismic event","1909-08-16 06:58:00","2020-12-30 21:51:16",14,928
+Irruputuncu,"Seismic event","1949-05-30 01:32:53","2020-09-23 06:35:08",2,657
+Isluga,"Seismic event","1932-05-30 00:22:45","2020-08-17 23:50:40",1,139
+Iwate,"Seismic event","1930-06-01 18:17:26","2019-02-28 04:46:45",1,9605
+Iwo-Tori-shima,"Seismic event","1938-07-25 19:25:19","2019-02-28 00:59:44",3,16431
+Izalco,"Seismic event","1958-03-01 17:21:33","2020-12-19 05:06:22",1,1072
+Izu-Tobu,"Seismic event","1920-05-13 06:53:09","2019-02-27 01:52:52",2,80285
+"Jan Mayen","Seismic event","1932-11-29 08:34:38","2021-10-20 13:13:45",3,3929
+Kaba,"Seismic event","1964-08-27 15:37:51","2020-01-12 08:18:28",1,60
+Kadovar,"Seismic event","1935-10-11 22:15:57","2019-10-23 14:48:39",1,138
+Kadovar,"Thermal from Satellite/Airplane","2002-03-06 00:00:00","2022-06-01 00:00:00",1,177
+"Kaitoku Seamount","Seismic event","1937-06-12 18:08:10","2020-03-24 13:22:16",3,166
+Kambalny,"Seismic event","1960-10-30 16:16:24","2020-11-11 02:53:49",1,241
+Kambalny,"Thermal from Satellite/Airplane","2003-01-22 00:00:00","2021-08-19 00:00:00",1,45
+Kanaga,"Seismic event","1901-12-31 09:02:00","2020-11-04 09:35:48",8,2502
+Kanaga,"Thermal from Satellite/Airplane","2001-09-15 00:00:00","2022-05-11 00:00:00",1,17
+Kanlaon,Plume,"2000-01-01 00:00:00","2016-12-31 05:01:00",5,8383
+Kanlaon,"Seismic event","1978-06-21 22:44:18","2020-06-21 17:02:00",19,1000
+Kanlaon,"Seismic swarm","2000-03-01 00:00:00","2016-12-31 00:00:00",5,27688
+Kanlaon,"Single station event","2000-01-01 04:31:00","2016-12-31 21:58:00",5,44418
+Kanlaon,"Thermal from Satellite/Airplane","2002-09-27 00:00:00","2021-08-05 00:00:00",6,33
+"Karangetang [Api Siau]","Seismic event","1967-06-09 19:24:07","2020-11-07 12:07:42",27,153
+"Karangetang [Api Siau]","Thermal from Satellite/Airplane","2000-11-13 14:35:00","2021-07-29 00:00:00",12,2333
+Karkar,"Seismic event","1950-05-12 21:21:31","2020-09-11 20:25:47",10,107
+Karkar,"Thermal from Satellite/Airplane","2007-09-05 00:00:00","2018-08-27 00:00:00",5,4
+Karthala,"Thermal from Satellite/Airplane","2000-10-31 00:00:00","2022-06-22 00:00:00",4,170
+Karymsky,"Seismic event","1958-06-26 04:38:26","2020-11-05 23:04:35",13,1796
+Karymsky,"Thermal from Satellite/Airplane","2000-04-01 10:10:00","2022-05-04 00:00:00",7,3311
+Kasatochi,"Seismic event","1949-08-18 20:31:16","2020-08-18 08:18:59",1,2139
+Kasatochi,"Thermal from Satellite/Airplane","2003-11-17 00:00:00","2021-11-16 00:00:00",1,20
+Kasuga,"Seismic event","1928-12-20 00:15:47","2020-10-25 15:47:23",2,322
+Katla,"Seismic event","1958-05-19 17:25:37","2020-07-27 07:41:33",1,47
+Kavachi,"Seismic event","1928-12-09 05:05:30","2020-02-04 15:47:12",33,226
+Kavachi,"Thermal from Satellite/Airplane","2001-12-17 00:00:00","2021-11-22 00:00:00",5,26
+Kelimutu,"Seismic event","1961-03-16 18:21:15","2019-12-07 14:41:36",1,91
+Kelut,"Seismic event","1951-07-31 13:28:41","2019-08-27 10:09:03",7,36
+Kelut,"Thermal from Satellite/Airplane","2001-02-25 15:20:00","2021-04-30 00:00:00",2,125
+Kerinci,"Seismic event","1979-03-13 01:21:00","2020-08-01 07:04:58",16,16
+Kerinci,"Thermal from Satellite/Airplane","2001-08-23 00:00:00","2020-12-01 00:00:00",10,27
+Ketoi,"Seismic event","1951-04-15 04:56:42","1999-10-13 09:31:18",1,65
+"Kick 'em Jenny","Seismic event","1964-05-18 05:27:00","2019-12-11 00:22:25",11,431
+"Kick 'em Jenny","Thermal from Satellite/Airplane","2004-02-14 00:00:00","2022-01-30 00:00:00",2,9
+Kikai,"Seismic event","1932-11-17 20:11:40","2019-02-26 21:19:34",10,5044
+Kikai,"Single station event","2002-01-01 00:07:00","2014-01-31 20:12:00",4,134833
+Kikai,"Thermal from Satellite/Airplane","2001-01-10 00:00:00","2021-11-01 00:00:00",7,52
+Kikai,"Volcanic tremor","2003-02-06 09:57:00","2006-07-17 15:54:00",2,296
+Kilauea,GPV,"1996-08-01 00:00:00","2022-10-15 00:00:00",1,272044
+Kilauea,Plume,"1979-06-10 00:00:00","2010-12-30 20:33:00",5,3003
+Kilauea,"Seismic event","1887-01-24 09:50:00","2020-12-30 17:50:44",57,253804
+Kilauea,"Thermal from Satellite/Airplane","2000-04-01 08:20:00","2022-07-22 00:00:00",1,9785
+Kirishima,GPS,"2002-01-01 00:00:00","2014-01-31 00:00:00",4,37212
+Kirishima,"Seismic event","1927-06-10 02:51:10","2019-02-28 06:31:50",12,28397
+Kirishima,"Single station event","2002-01-02 06:22:51","2014-01-31 10:50:09",4,47427
+Kirishima,"Thermal from Satellite/Airplane","2001-03-15 00:00:00","2022-04-03 00:00:00",6,320
+Kirishima,Tilt,"2010-09-01 00:00:00","2014-01-30 00:00:00",1,1439
+Kiska,"Seismic event","1940-07-15 15:23:11","2020-06-09 16:55:35",5,541
+Kita-Fukutokutai,"Seismic event","1937-05-29 04:56:06","2020-09-19 02:29:00",6,130
+Kita-Iwo-jima,"Seismic event","1921-07-04 14:18:20","2020-10-21 15:19:55",17,268
+Kizimen,"Seismic event","1927-12-28 18:20:33","2020-12-19 09:20:26",1,731
+Kizimen,"Thermal from Satellite/Airplane","2000-11-01 00:00:00","2022-06-21 00:00:00",1,1432
+Kliuchevskoi,"Seismic event","1955-02-13 17:16:57","2020-11-21 20:43:03",47,14973
+Kliuchevskoi,"Thermal from Satellite/Airplane","2000-05-06 10:40:00","2022-09-02 00:00:00",15,4085
+"Kolokol Group","Seismic event","1935-06-25 12:33:37","1999-09-10 08:45:25",5,36
+Komaga-take,"Seismic event","1927-12-11 04:48:34","2019-02-27 05:40:31",9,4050
+Komaga-take,"Seismic swarm","1994-01-01 00:00:00","2013-10-16 00:00:00",3,1839
+Komaga-take,"Thermal from Satellite/Airplane","2000-04-14 00:00:00","2022-06-07 00:00:00",1,97
+Korovin,"Seismic event","1962-03-07 19:08:46","2020-09-23 01:17:28",10,2027
+Koryaksky,"Seismic event","1957-02-03 22:58:39","2020-06-16 02:11:24",1,1458
+Koryaksky,"Thermal from Satellite/Airplane","2001-03-14 00:00:00","2022-04-18 00:00:00",1,73
+Krafla,"Seismic event","1976-01-02 02:15:10","1978-01-13 17:08:44",1,31
+Krakatau,"Seismic event","1950-05-01 13:21:01","2020-09-12 05:33:46",30,485
+Krakatau,"Thermal from Satellite/Airplane","2000-07-15 16:20:00","2021-07-31 00:00:00",8,764
+Kuchinoerabu-jima,"Seismic event","1909-03-10 23:55:00","2019-02-24 23:53:57",15,3514
+Kuchinoerabu-jima,"Thermal from Satellite/Airplane","2002-02-07 00:00:00","2021-11-01 00:00:00",4,38
+Kuju,"Seismic event","1922-07-12 13:30:57","2019-02-28 07:18:02",1,67734
+Kupreanof,"Seismic event","1964-03-28 15:39:44","2020-09-03 23:18:42",1,160
+Kurikoma,"Seismic event","1923-10-09 20:22:40","2019-02-28 21:39:10",3,61563
+Kusatsu-Shirane,"Seismic event","1919-03-13 22:14:15","2019-02-28 20:32:14",17,20772
+Kusatsu-Shirane,"Thermal from Satellite/Airplane","2000-12-24 00:00:00","2022-06-03 00:00:00",1,74
+Kuwae,"Seismic event","1950-02-25 21:14:52","2020-11-07 23:00:48",12,150
+Kverkfjöll,"Seismic event","1959-02-02 15:54:12","2015-02-13 21:22:56",2,60
+Lamington,"Seismic event","1939-11-10 20:20:48","2020-08-09 13:33:56",1,18
+Langila,"Seismic event","1956-10-13 18:53:53","2020-09-15 02:26:41",18,209
+Langila,"Thermal from Satellite/Airplane","2000-05-12 13:00:00","2019-12-15 15:20:00",8,850
+Lanín,"Seismic event","1974-07-15 09:30:18","2010-06-03 11:46:42",1,7
+Láscar,InSAR,"2012-06-21 00:00:00","2017-03-14 00:00:00",2,136
+Láscar,Plume,"2013-09-29 00:00:00","2016-01-16 00:00:00",1,75
+Láscar,"Seismic event","1958-04-10 13:18:48","2020-11-16 16:03:55",22,109
+Láscar,"Thermal from Satellite/Airplane","2000-05-01 00:00:00","2022-05-05 00:00:00",8,4473
+"Lengai, Ol Doinyo","Seismic event","1966-07-24 10:25:07","2017-06-28 10:35:46",10,172
+"Lengai, Ol Doinyo","Thermal from Satellite/Airplane","2001-04-14 20:15:00","2022-06-27 00:00:00",5,276
+Leroboleng,"Seismic event","1961-08-25 21:26:27","2019-03-03 22:51:49",1,97
+Leroboleng,"Thermal from Satellite/Airplane","2001-07-27 00:00:00","2022-05-02 00:00:00",1,95
+Lewotobi,"Seismic event","1967-03-29 20:43:25","2019-07-16 19:46:37",9,71
+Lewotobi,"Thermal from Satellite/Airplane","2001-07-27 00:00:00","2021-12-16 00:00:00",3,69
+Lewotolo,"Seismic event","1944-03-22 00:43:13","2020-01-02 01:51:15",2,119
+Lewotolo,"Thermal from Satellite/Airplane","2001-07-11 00:00:00","2022-03-31 00:00:00",2,129
+Llaima,"Seismic event","1974-09-27 20:23:19","2012-11-06 14:31:09",13,11
+Llaima,"Thermal from Satellite/Airplane","2000-10-18 00:00:00","2022-04-06 00:00:00",4,513
+Loihi,"Seismic event","1908-09-21 06:31:00","2020-12-14 07:50:39",5,11468
+Lokon-Empung,"Seismic event","1971-06-13 22:02:31","2020-06-05 13:56:18",15,127
+Lokon-Empung,"Thermal from Satellite/Airplane","2001-08-30 00:00:00","2022-03-01 00:00:00",8,114
+"Long Island","Seismic event","1927-11-09 01:05:36","2020-12-29 14:23:44",10,783
+Lonquimay,"Seismic event","1968-04-30 23:51:18","2010-06-28 14:24:06",1,17
+Lopevi,"Seismic event","1950-06-14 04:42:02","2020-11-21 02:51:13",22,293
+Lopevi,"Thermal from Satellite/Airplane","2000-04-24 11:35:00","2022-05-30 00:00:00",9,204
+Mahawu,"Seismic event","1971-06-13 22:02:31","2020-06-27 02:30:34",1,128
+Makian,"Seismic event","1974-05-17 23:58:10","2020-12-29 07:38:53",1,104
+Makushin,"Seismic event","1959-04-22 10:55:05","2020-11-26 07:11:04",5,7815
+Manam,"Seismic event","1974-05-13 14:39:13","2020-01-13 11:30:18",9,52
+Manam,"Thermal from Satellite/Airplane","2001-04-04 00:00:00","2022-06-01 00:00:00",8,1055
+"Manda Hararo","Seismic event","1979-08-06 00:48:22","2017-08-31 02:26:35",2,1297
+"Manda Hararo","Thermal from Satellite/Airplane","2000-10-10 00:00:00","2022-06-01 00:00:00",2,139
+Marapi,"Seismic event","1968-10-15 02:10:34","2020-06-29 17:40:10",21,103
+Marapi,"Thermal from Satellite/Airplane","2002-03-10 00:00:00","2019-08-16 00:00:00",8,20
+Marapi,Tilt,"2016-01-15 05:10:04","2020-12-31 23:50:03",2,499309
+Marchena,"Seismic event","1968-06-19 22:40:11","2017-10-05 01:05:31",1,7
+Masaya,InSAR,"2007-10-10 00:00:00","2012-07-16 00:00:00",2,31
+Masaya,Plume,"2007-04-21 00:00:00","2014-10-08 00:00:00",2,1000
+Masaya,"Seismic event","1907-12-30 05:26:00","2020-12-23 15:44:11",22,669
+Masaya,"Thermal from Satellite/Airplane","2000-04-05 04:35:00","2021-05-19 00:00:00",8,696
+"Matthew Island","Seismic event","1935-08-17 01:44:37","2020-11-22 21:46:31",5,237
+"Mauna Loa","Seismic event","1887-01-24 09:50:00","2020-12-26 13:09:00",17,62357
+Mayon,GPS,"2012-01-19 00:00:00","2015-08-10 00:00:00",2,16650
+Mayon,Plume,"2000-01-01 00:00:00","2017-01-28 00:00:00",13,12388
+Mayon,"Seismic event","1977-02-04 10:21:45","2020-12-16 00:00:06",18,981
+Mayon,"Seismic swarm","2000-01-01 00:00:00","2016-12-31 00:00:00",13,21860
+Mayon,"Single station event","2000-01-01 04:56:00","2016-12-31 23:51:00",13,47655
+Mayon,Thermal,"2000-01-01 00:00:00","2016-12-31 00:00:00",13,6268
+Mayon,"Thermal from Satellite/Airplane","2000-04-12 14:35:00","2022-03-26 00:00:00",14,513
+Mayon,Tilt,"2009-09-04 15:00:00","2020-12-31 23:40:03",4,946490
+"McDonald Islands","Thermal from Satellite/Airplane","2002-11-09 00:00:00","2020-11-03 00:00:00",2,6
+Medvezhia,"Seismic event","1954-02-03 18:23:55","1999-06-18 16:18:38",1,31
+Merapi,EDM,"1992-08-09 00:00:00","2009-12-31 05:21:00",1,2464
+Merapi,Meteorology,"1995-01-01 00:00:00","2009-12-31 00:00:00",1,24361
+Merapi,Plume,"2005-01-01 00:00:00","2009-03-29 00:00:00",1,459
+Merapi,"Seismic event","1996-03-11 12:34:03","2019-11-15 19:54:37",5,25
+Merapi,"Seismic swarm","1983-01-01 00:00:00","2012-12-31 00:00:00",4,66075
+Merapi,Thermal,"1978-09-03 00:00:00","2006-01-01 00:00:00",2,832
+Merapi,"Thermal from Satellite/Airplane","2001-01-20 15:45:00","2021-09-28 00:00:00",6,567
+Merapi,Tilt,"1995-10-10 00:00:00","2013-04-02 06:55:00",2,4785
+"Metis Shoal","Seismic event","1947-07-13 12:57:35","2020-11-27 05:42:52",5,135
+"Metis Shoal","Thermal from Satellite/Airplane","2001-02-07 00:00:00","2021-12-15 00:00:00",1,44
+Michael,"Seismic event","1968-02-13 19:02:53","2021-04-13 09:54:46",18,46
+Michael,"Thermal from Satellite/Airplane","2001-02-27 01:40:00","2019-11-16 01:05:00",11,232
+Minami-Hiyoshi,"Seismic event","1950-12-15 01:38:07","2020-11-30 20:54:23",6,84
+Miravalles,"Seismic event","1941-12-06 01:25:01","2020-11-27 13:59:47",1,533
+"Misti, El","Seismic event","1959-01-13 19:06:40","2020-07-17 05:04:06",2,49
+Miyake-jima,GPS,"1999-03-25 12:00:00","2014-01-31 00:00:00",10,42226
+Miyake-jima,Plume,"2000-08-26 00:00:00","2012-03-22 05:00:00",9,395
+Miyake-jima,"Seismic event","1900-11-05 07:42:00","2019-02-22 19:58:47",13,246570
+Miyake-jima,"Seismic swarm","2002-01-01 00:00:00","2014-01-31 00:00:00",8,5906
+Miyake-jima,"Single station event","1970-01-01 07:30:00","2014-01-31 07:31:00",11,593040
+Miyake-jima,"Thermal from Satellite/Airplane","2000-07-08 00:00:00","2022-04-09 00:00:00",9,52
+Miyake-jima,"Volcanic tremor","2003-08-10 18:04:00","2004-12-24 08:38:00",1,681
+Momotombo,GPV,"2011-05-23 00:00:00","2022-07-30 00:00:00",1,6128
+Momotombo,"Seismic event","1955-03-10 03:38:44","2020-11-22 13:32:59",1,2664
+Momotombo,"Thermal from Satellite/Airplane","2000-11-17 00:00:00","2022-03-03 00:00:00",1,154
+"Mono Craters",GPV,"1997-11-30 00:00:00","2022-10-15 00:00:00",1,75925
+"Mono Craters",Hydrology,"1982-08-26 19:45:00","2010-09-30 00:00:00",1,77055
+"Mono Craters","Seismic event","1931-01-01 01:15:00","2020-12-27 05:50:31",1,231013
+"Monowai Seamount","Seismic event","1955-12-27 02:27:52","2020-08-11 13:55:12",22,125
+"Monowai Seamount","Thermal from Satellite/Airplane","2000-10-16 00:00:00","2022-06-07 00:00:00",8,57
+"Montagu Island","Seismic event","1963-12-10 06:31:00","2021-05-27 01:30:49",2,91
+"Montagu Island","Thermal from Satellite/Airplane","2001-09-28 01:55:00","2019-11-16 00:00:00",1,1556
+Mutnovsky,"Seismic event","1946-10-02 04:46:13","2020-08-23 09:50:50",3,986
+Nabro,"Seismic event","2007-11-18 04:50:00","2015-11-08 00:15:14",1,131
+Nabro,"Thermal from Satellite/Airplane","2001-12-25 00:00:00","2022-05-16 00:00:00",1,1411
+Nakano-shima,"Seismic event","1904-08-24 20:59:54","2019-02-27 12:16:18",2,5240
+Nasu,"Seismic event","1920-07-04 19:51:36","2019-02-24 18:09:19",4,12173
+"Negra, Sierra",GPV,"2002-05-28 00:00:00","2022-05-31 00:00:00",2,85361
+"Negra, Sierra",InSAR,"2005-06-13 00:00:00","2017-10-10 00:00:00",1,280
+"Negra, Sierra","Seismic event","1932-10-03 04:37:40","2018-08-16 13:11:07",8,2020
+"Negra, Sierra","Single station event","2010-01-02 17:59:31","2018-09-22 14:20:19",1,15355
+"Negra, Sierra","Thermal from Satellite/Airplane","2001-03-12 00:00:00","2020-09-24 00:00:00",2,205
+"Negro, Cerro","Seismic event","1926-11-05 07:55:27","2020-11-22 13:32:59",18,2400
+"Nemo Peak","Seismic event","1927-08-08 00:57:50","1999-03-19 22:54:50",2,25
+Niigata-Yake-yama,"Seismic event","1919-03-29 07:40:06","2019-02-27 11:15:59",10,12021
+Nikko,"Seismic event","1932-09-02 12:56:30","2020-04-14 13:34:21",1,121
+Nikko-Shirane,"Seismic event","1920-02-03 02:58:08","2019-02-28 23:49:38",1,59424
+Nila,"Seismic event","1918-11-18 18:42:06","2020-12-27 19:32:59",3,1198
+Nishino-shima,"Seismic event","1931-08-15 21:43:50","2018-12-10 15:54:20",12,246
+Nishino-shima,"Thermal from Satellite/Airplane","2000-11-29 00:00:00","2022-02-27 00:00:00",5,1340
+Niuafo'ou,"Seismic event","1961-02-25 15:02:05","2020-07-20 23:58:39",1,142
+"North Gorda Ridge","Seismic event","1944-07-21 12:25:00","2017-01-06 08:48:36",1,211
+"NW Rota-1","Seismic event","1959-01-12 17:41:29","2020-06-04 09:56:24",1,125
+Nyamuragira,"Seismic event","1965-12-28 11:30:08","2021-05-25 20:38:12",23,27
+Nyamuragira,"Thermal from Satellite/Airplane","2000-04-02 20:30:00","2022-06-23 00:00:00",9,1910
+Nyiragongo,"Seismic event","1965-12-28 11:30:08","2021-05-27 09:33:55",5,28
+Nyiragongo,"Thermal from Satellite/Airplane","2001-03-02 20:35:00","2022-04-04 00:00:00",2,7073
+"Ojos del Salado, Nevados","Seismic event","1983-07-13 22:59:15","2018-12-29 06:21:05",1,9
+Okataina,"Seismic event","1940-12-01 23:53:00","2020-12-29 12:29:21",4,17392
+Okmok,"Seismic event","1956-03-08 11:05:26","2019-12-10 06:00:51",7,3893
+Okmok,"Thermal from Satellite/Airplane","2006-08-18 00:00:00","2022-05-10 00:00:00",1,21
+On-take,GPS,"2002-01-01 00:00:00","2014-01-31 00:00:00",1,13408
+On-take,"Seismic event","1919-07-15 02:22:53","2019-02-28 23:58:45",4,77867
+On-take,"Seismic swarm","1994-01-01 00:00:00","2014-01-20 00:00:00",1,5872
+On-take,"Single station event","2002-01-01 01:11:04","2014-01-20 16:03:00",1,15308
+On-take,"Thermal from Satellite/Airplane","2000-11-04 00:00:00","2022-05-25 00:00:00",2,93
+"Orizaba, Pico de","Seismic event","1928-02-10 04:38:35","2020-05-13 02:40:49",1,34
+Oshima,"Seismic event","1920-05-13 06:53:09","2019-02-27 05:08:42",34,27893
+Pacaya,"Seismic event","1951-02-13 08:50:13","2020-12-14 05:32:57",12,1191
+Pacaya,"Thermal from Satellite/Airplane","2000-09-03 04:40:00","2022-04-02 00:00:00",8,2319
+Pagan,"Seismic event","1902-09-22 01:46:00","2020-11-13 05:18:58",18,236
+Pagan,"Thermal from Satellite/Airplane","2002-05-22 00:00:00","2022-01-28 00:00:00",5,45
+Pago,"Seismic event","1934-02-28 14:21:49","2020-11-11 22:54:27",4,466
+Pago,"Thermal from Satellite/Airplane","2000-11-15 00:00:00","2021-10-24 00:00:00",4,206
+Paluweh,"Seismic event","1961-03-16 13:45:36","2020-06-30 06:27:10",7,136
+Paluweh,"Thermal from Satellite/Airplane","2002-08-06 00:00:00","2020-04-01 00:00:00",1,307
+Papandayan,"Seismic event","1975-05-14 10:00:18","2020-03-18 08:45:48",1,193
+Papandayan,"Thermal from Satellite/Airplane","2002-07-04 00:00:00","2021-08-25 00:00:00",1,46
+Parinacota,"Seismic event","1939-05-19 18:25:35","2020-12-25 07:06:50",1,234
+Pavlof,"Seismic event","1963-02-27 23:36:23","2020-10-09 21:19:46",21,1142
+Pavlof,"Thermal from Satellite/Airplane","2000-11-02 00:00:00","2022-06-22 00:00:00",6,374
+Pelée,"Seismic event","1906-12-03 22:59:24","2020-12-02 20:49:50",2,571
+"Peuet Sague","Seismic event","1912-09-11 00:47:54","2020-09-19 04:50:19",7,181
+"Pilas, Las","Seismic event","1926-11-05 07:55:27","2020-11-22 13:32:59",2,2525
+Pinatubo,Hydrology,"1982-10-12 00:00:00","1992-12-04 00:00:00",2,363
+Pinatubo,Meteorology,"1991-07-01 12:00:00","1993-12-01 12:00:00",2,121
+Pinatubo,"Plume from Satellite/Airplane","1991-05-13 00:00:00","1992-11-10 00:00:00",1,35
+Pinatubo,"Seismic event","1927-04-19 17:30:15","2020-12-28 17:57:23",3,5909
+Pinatubo,"Seismic swarm","1991-04-05 00:00:00","1992-12-31 00:00:00",1,1118
+Planchón-Peteroa,InSAR,"2007-01-26 00:00:00","2012-03-28 00:00:00",2,22
+Planchón-Peteroa,"Seismic event","1945-06-24 19:58:00","2013-05-05 22:57:09",8,662
+Planchón-Peteroa,"Thermal from Satellite/Airplane","2001-12-26 00:00:00","2022-05-01 00:00:00",3,263
+Poás,InSAR,"2007-02-17 00:00:00","2010-10-28 00:00:00",3,12
+Poás,"Seismic event","1964-07-23 04:57:54","2020-12-28 00:35:34",29,796
+Poás,"Thermal from Satellite/Airplane","2001-02-07 00:00:00","2021-04-26 00:00:00",8,194
+Popocatépetl,Plume,"1994-02-19 00:00:00","2016-12-28 00:00:00",4,1275
+Popocatépetl,"Plume from Satellite/Airplane","1994-02-01 00:00:00","2006-03-21 00:00:00",4,31
+Popocatépetl,"Seismic event","1969-07-10 18:09:14","2020-06-27 09:12:39",4,199
+Popocatépetl,"Thermal from Satellite/Airplane","2000-04-04 05:30:00","2022-01-15 00:00:00",2,5717
+"Protector Shoal","Seismic event","1959-04-30 13:25:50","2021-05-23 15:37:09",1,503
+Pular,"Seismic event","1934-12-16 16:31:10","2020-12-09 10:46:45",1,181
+Putana,"Seismic event","1926-04-28 11:13:45","2020-12-27 07:35:08",1,330
+"Puyehue-Cordón Caulle","Seismic event","1934-03-01 21:45:15","2011-12-17 17:32:12",4,90
+"Puyehue-Cordón Caulle","Thermal from Satellite/Airplane","2002-03-05 00:00:00","2022-06-25 00:00:00",1,510
+Rabaul,"Seismic event","1941-01-13 16:27:44","2020-12-02 17:20:58",11,327
+Rabaul,"Thermal from Satellite/Airplane","2000-04-07 12:30:00","2022-04-27 00:00:00",7,820
+Raikoke,"Seismic event","1921-09-29 13:09:20","1999-12-24 11:47:16",1,64
+Raikoke,"Thermal from Satellite/Airplane","2004-05-05 00:00:00","2022-07-01 00:00:00",1,12
+Ranakah,"Seismic event","1928-11-28 10:43:12","2020-08-20 20:03:52",2,123
+"Raoul Island","Seismic event","1943-04-29 19:48:56","2020-09-11 02:45:26",3,216
+"Raoul Island","Thermal from Satellite/Airplane","2001-01-02 00:00:00","2022-03-26 00:00:00",1,35
+Rasshua,"Seismic event","1947-09-03 15:26:59","1999-10-19 18:29:50",1,47
+Raung,"Seismic event","1960-05-21 11:47:03","2019-09-04 04:11:27",28,146
+Raung,"Thermal from Satellite/Airplane","2000-04-20 15:20:00","2022-04-10 00:00:00",12,1034
+Rausu,"Seismic event","1907-07-05 15:46:06","2019-02-26 05:19:25",1,2940
+Redoubt,GPV,"2006-09-02 00:00:00","2022-08-20 00:00:00",1,8809
+Redoubt,"Plume from Satellite/Airplane","1990-01-04 12:00:00","2010-08-20 12:00:00",1,273
+Redoubt,"Seismic event","1961-09-25 02:27:13","2020-12-26 04:31:34",7,23477
+Redoubt,"Thermal from Satellite/Airplane","2000-10-02 07:40:00","2022-05-20 00:00:00",1,262
+Reventador,"Thermal from Satellite/Airplane","2002-11-09 03:50:00","2021-09-28 00:00:00",3,1682
+Reykjanes,"Seismic event","1933-06-10 12:06:54","2020-10-20 15:32:45",2,125
+"Rincón de la Vieja","Seismic event","1965-07-19 22:14:19","2020-12-22 12:46:15",20,334
+"Rincón de la Vieja","Thermal from Satellite/Airplane","2002-04-13 00:00:00","2022-04-04 00:00:00",8,22
+Rinjani,"Seismic event","1979-06-13 13:33:24","2020-09-12 15:11:03",6,1053
+Rinjani,"Thermal from Satellite/Airplane","2000-12-11 00:00:00","2022-05-30 00:00:00",4,524
+"Ritter Island","Seismic event","1928-09-07 02:49:07","2020-11-25 15:06:48",5,221
+"Ritter Island","Thermal from Satellite/Airplane","2001-08-21 00:00:00","2022-03-24 00:00:00",3,22
+Ruang,"Seismic event","1968-03-09 22:02:11","2020-02-20 12:53:14",2,142
+Ruapehu,GPV,"2004-02-11 00:00:00","2017-03-04 19:59:00",2,64344
+Ruapehu,"Seismic event","1940-04-02 12:36:06","2020-10-28 16:08:05",48,30948
+Ruapehu,"Thermal from Satellite/Airplane","2001-04-11 00:00:00","2022-05-23 00:00:00",2,163
+Ruby,"Seismic event","1966-03-10 02:08:21","2020-07-25 04:00:04",2,57
+"Ruiz, Nevado del",InSAR,"2007-06-10 00:00:00","2017-04-19 00:00:00",2,58
+"Ruiz, Nevado del",Plume,"2009-12-02 00:00:00","2017-01-29 00:00:00",2,1281
+"Ruiz, Nevado del","Thermal from Satellite/Airplane","2002-02-07 00:00:00","2021-11-17 00:00:00",3,589
+"Rumble III","Seismic event","1960-11-14 09:34:18","2020-12-20 10:18:52",5,877
+"Rumble III","Thermal from Satellite/Airplane","2007-08-20 00:00:00","2021-11-14 00:00:00",1,11
+"Rumble IV","Seismic event","1940-06-30 13:05:42","2020-08-30 13:37:15",1,1104
+Sabancaya,Plume,"2016-08-15 00:00:00","2017-01-26 00:00:00",1,126
+Sabancaya,"Seismic event","1937-07-09 17:27:40","2020-10-13 10:38:17",9,137
+Sabancaya,"Thermal from Satellite/Airplane","2000-10-29 03:40:00","2022-06-29 00:00:00",4,1280
+Sakura-jima,"Seismic event","1923-12-26 16:17:55","2019-02-28 04:17:33",12,27671
+Sakura-jima,"Seismic swarm","1914-01-11 00:00:00","2014-01-31 00:00:00",12,14663
+Sakura-jima,"Thermal from Satellite/Airplane","2000-11-07 13:40:00","2022-04-03 00:00:00",1,1294
+"Salton Buttes",GPV,"1999-01-13 00:00:00","2022-10-15 00:00:00",1,32545
+"Salton Buttes","Seismic event","1932-07-05 06:14:38","2020-12-25 11:31:54",1,19366
+"San Cristóbal",GPV,"2010-03-12 00:00:00","2016-06-21 00:00:00",10,1850
+"San Cristóbal",InSAR,"2007-07-27 00:00:00","2010-09-19 00:00:00",5,12
+"San Cristóbal",Plume,"2006-11-25 00:00:00","2016-05-31 00:00:00",14,1028
+"San Cristóbal","Seismic event","1926-11-05 07:55:27","2020-12-23 03:13:18",31,1707
+"San Cristóbal","Thermal from Satellite/Airplane","2002-01-23 00:00:00","2022-01-21 00:00:00",22,103
+"San Jorge","Seismic event","1926-08-31 10:40:08","2019-08-31 04:40:46",1,303
+"San José","Seismic event","1958-08-28 09:36:08","2014-11-12 05:38:10",2,501
+"San Miguel","Seismic event","1939-12-26 11:55:11","2020-12-31 11:20:13",20,1910
+"San Miguel","Thermal from Satellite/Airplane","2001-04-01 00:00:00","2021-04-24 00:00:00",9,23
+"San Pedro","Seismic event","1940-08-07 02:55:57","2020-12-31 19:35:08",1,2315
+Sangay,Plume,"2013-11-22 00:00:00","2015-05-13 00:00:00",1,7
+Sangay,"Thermal from Satellite/Airplane","2000-10-20 00:00:00","2022-01-09 00:00:00",8,2118
+"Sangeang Api","Seismic event","1954-11-02 08:24:16","2020-09-01 13:02:05",12,232
+"Sangeang Api","Thermal from Satellite/Airplane","2001-07-16 00:00:00","2022-02-16 00:00:00",3,98
+"Santa Ana",Plume,"2001-01-08 12:00:00","2009-09-23 00:00:00",1,118
+"Santa Ana","Seismic event","1958-03-01 17:21:33","2020-12-19 05:06:22",1,1233
+"Santa Ana","Thermal from Satellite/Airplane","2001-01-06 04:05:00","2022-05-13 00:00:00",1,141
+"Sarychev Peak","Seismic event","1964-01-09 20:57:02","1999-12-24 11:47:16",4,57
+"Sarychev Peak","Thermal from Satellite/Airplane","2003-06-11 00:00:00","2022-03-11 00:00:00",6,264
+Seguam,"Seismic event","1951-06-01 20:02:16","2020-06-22 12:40:04",3,152
+Semeru,"Seismic event","1960-10-10 21:44:46","2020-12-27 11:26:58",5,75
+Semeru,"Thermal from Satellite/Airplane","2000-04-04 15:20:00","2022-06-20 00:00:00",4,4710
+Semisopochnoi,"Seismic event","1952-04-12 02:51:15","2020-05-31 22:08:22",4,2935
+"Sete Cidades","Seismic event","1968-06-17 17:21:57","2019-08-29 06:11:12",1,2077
+Shikotsu,"Seismic event","1920-12-22 05:07:33","2019-02-25 22:33:31",19,3516
+Shiretoko-Iwo-zan,"Seismic event","1907-07-05 15:46:06","2019-02-26 05:19:25",1,2640
+Shishaldin,GPV,"2008-07-31 00:00:00","2022-10-15 00:00:00",2,39636
+Shishaldin,"Seismic event","1951-10-01 10:11:55","2020-07-29 16:14:08",21,11845
+Shishaldin,"Thermal from Satellite/Airplane","2000-09-04 00:00:00","2022-06-06 00:00:00",4,493
+Shiveluch,"Seismic event","1931-09-12 01:45:00","2020-07-15 12:41:36",13,4269
+Sinabung,"Seismic event","1972-10-06 20:22:06","2020-12-13 19:06:38",4,247
+Sinabung,"Thermal from Satellite/Airplane","2013-12-24 19:15:00","2021-12-27 00:00:00",2,743
+Sirung,"Seismic event","1947-05-27 03:34:54","2020-09-02 15:59:56",8,157
+Sirung,"Thermal from Satellite/Airplane","2001-05-24 00:00:00","2022-05-27 00:00:00",2,47
+Slamet,"Seismic event","1971-06-16 14:44:23","2019-12-11 13:11:54",7,36
+Slamet,"Thermal from Satellite/Airplane","2000-06-28 15:35:00","2021-08-02 00:00:00",3,657
+"Smith Rock","Seismic event","1940-01-24 17:43:26","2018-08-26 10:51:24",20,99
+Sofugan,"Seismic event","1931-06-12 10:45:14","2017-05-26 13:10:56",1,32
+Soputan,"Seismic event","1971-03-08 19:22:38","2020-09-26 08:48:17",20,109
+Soputan,"Thermal from Satellite/Airplane","2000-05-13 13:50:00","2022-06-05 00:00:00",12,1518
+Sorikmarapi,"Seismic event","1961-09-25 10:45:04","2019-12-15 15:07:56",3,137
+"Soufrière Guadeloupe","Seismic event","1964-09-06 09:52:48","2019-10-31 10:23:29",1,3602
+"Soufrière Hills",GPV,"2004-03-25 00:00:00","2022-09-17 00:00:00",1,14168
+"Soufrière Hills","Seismic event","1964-01-30 07:48:27","2020-08-01 10:01:41",3,637
+"Soufrière Hills","Thermal from Satellite/Airplane","2000-04-07 02:45:00","2022-02-24 00:00:00",2,1039
+"Soufriere St. Vincent","Seismic event","1964-01-30 01:28:00","2019-07-17 01:58:53",2,157
+"Soufriere St. Vincent","Thermal from Satellite/Airplane","2007-11-05 00:00:00","2021-10-10 00:00:00",1,15
+Spurr,"Plume from Satellite/Airplane","1991-07-22 12:00:00","2006-11-17 12:00:00",1,147
+Spurr,"Seismic event","1962-03-16 05:17:36","2020-12-23 20:53:35",1,39302
+"St. Helens","Plume from Satellite/Airplane","1980-04-04 00:00:00","2005-11-22 00:00:00",3,989
+"St. Helens","Seismic event","1961-01-04 01:47:00","2020-11-12 20:49:44",4,81574
+"St. Helens","Seismic swarm","1980-03-13 00:00:00","1980-05-24 19:21:47",1,1020
+"St. Helens","Thermal from Satellite/Airplane","2000-03-06 06:10:00","2023-08-20 00:00:00",1,1292
+"St. Helens",Tilt,"1980-04-10 22:21:10","2011-12-05 13:14:29",3,1234262
+Stromboli,"Seismic event","1910-08-01 10:40:24","2020-12-25 16:33:56",2,633
+Sundoro,"Seismic event","1966-01-26 04:20:29","2019-09-26 16:54:18",1,26
+"Supply Reef","Seismic event","1974-04-29 14:17:49","2020-12-02 03:28:57",2,62
+Suretamatai,"Seismic event","1940-02-20 02:18:26","2020-04-28 08:32:16",1,315
+Suwanose-jima,"Seismic event","1929-05-15 17:39:49","2019-02-24 01:00:45",17,4849
+Suwanose-jima,"Seismic swarm","2002-01-01 00:00:00","2014-01-31 00:00:00",1,5623
+Suwanose-jima,"Single station event","2002-01-01 03:58:00","2013-12-31 23:43:00",1,5796
+Suwanose-jima,"Thermal from Satellite/Airplane","2000-10-13 00:00:00","2022-05-03 00:00:00",2,344
+Taal,"Seismic event","1960-02-29 05:22:56","2020-12-27 08:59:42",9,7855
+Taal,"Thermal from Satellite/Airplane","2001-04-15 00:00:00","2022-04-02 00:00:00",1,58
+Tacaná,"Seismic event","1931-09-26 19:50:30","2020-09-17 01:13:59",3,722
+Tafu-Maka,"Seismic event","1939-06-08 20:46:53","2020-12-27 14:15:13",1,250
+Tafu-Maka,"Thermal from Satellite/Airplane","2007-07-04 00:00:00","2019-08-29 00:00:00",1,3
+"Tair, Jebel at","Seismic event","1994-05-11 10:08:06","2013-05-12 04:15:04",1,28
+"Tair, Jebel at","Thermal from Satellite/Airplane","2000-11-04 00:00:00","2022-04-07 00:00:00",1,491
+Talang,"Seismic event","1943-06-09 03:06:20","2019-02-04 06:57:29",10,75
+Talang,"Thermal from Satellite/Airplane","2002-03-10 00:00:00","2022-03-26 00:00:00",4,29
+Tambora,"Seismic event","1954-05-31 15:48:54","2020-12-06 09:20:18",1,468
+Tangkubanparahu,"Seismic event","1966-06-16 16:55:30","2020-04-03 15:59:00",7,62
+Tangkubanparahu,"Thermal from Satellite/Airplane","2002-07-20 00:00:00","2021-08-25 00:00:00",3,27
+"Tao-Rusyr Caldera","Seismic event","1927-08-08 00:57:50","1999-02-08 08:46:14",1,34
+"Tara, Batu","Seismic event","1965-10-26 12:18:41","2020-10-18 14:38:42",2,101
+"Tara, Batu","Thermal from Satellite/Airplane","2002-03-17 00:00:00","2021-08-19 00:00:00",2,1932
+Teahitia,"Seismic event","1975-09-10 13:08:54","2020-12-20 00:24:07",4,573
+Telica,GPV,"2010-03-12 00:00:00","2022-07-30 00:00:00",6,7978
+Telica,InSAR,"2007-07-27 00:00:00","2010-08-04 00:00:00",2,13
+Telica,Plume,"2009-12-30 00:00:00","2017-01-01 00:00:00",4,205
+Telica,"Seismic event","1926-11-05 07:55:27","2020-12-23 03:13:18",40,1238
+Telica,"Thermal from Satellite/Airplane","2000-10-16 00:00:00","2022-03-03 00:00:00",15,147
+Tenerife,"Seismic event","1966-05-28 11:29:05","2020-07-31 18:15:16",1,4151
+"Tengger Caldera","Seismic event","1960-10-10 21:44:46","2019-12-22 05:41:51",12,67
+"Tengger Caldera","Thermal from Satellite/Airplane","2001-07-28 00:00:00","2021-07-19 00:00:00",5,124
+Terceira,"Seismic event","1981-02-10 05:17:02","2019-08-26 23:40:24",1,690
+"Thule Islands","Seismic event","1941-11-15 04:19:58","2021-05-16 01:41:12",1,74
+Tiatia,"Seismic event","1924-12-27 11:22:01","1999-12-13 05:48:07",5,313
+Tinakula,"Seismic event","1963-09-15 00:46:55","2020-11-19 18:40:05",13,93
+Tinakula,"Thermal from Satellite/Airplane","2000-05-03 11:30:00","2021-08-06 00:00:00",6,592
+Tinguiririca,"Seismic event","1945-06-24 19:58:00","2014-12-26 08:29:05",1,887
+Tofua,"Seismic event","1903-01-04 05:07:00","2020-12-27 17:30:00",6,135
+Tofua,"Thermal from Satellite/Airplane","2000-03-24 10:35:00","2022-05-17 00:00:00",2,535
+Tokachi,GPS,"2002-01-01 00:00:00","2014-01-31 00:00:00",1,10046
+Tokachi,"Seismic event","1923-07-10 07:12:59","2019-02-28 18:57:28",15,12682
+Tokachi,"Seismic swarm","1998-01-01 00:00:00","2014-01-30 00:00:00",1,3857
+Tokachi,"Single station event","2002-01-01 04:04:00","2014-01-30 19:28:14",1,33469
+Tokachi,"Thermal from Satellite/Airplane","2002-05-15 00:00:00","2021-12-22 00:00:00",1,47
+Tolbachik,"Seismic event","1964-04-03 11:02:47","2020-12-09 13:08:48",10,2650
+Tolbachik,"Thermal from Satellite/Airplane","2005-01-22 00:00:00","2018-06-19 00:00:00",1,532
+Tongariro,GPV,"2004-02-11 00:00:00","2017-03-04 19:59:00",2,49026
+Tongariro,"Seismic event","1940-01-24 04:00:18","2020-10-12 12:22:38",22,30355
+Tongariro,"Thermal from Satellite/Airplane","2000-12-04 00:00:00","2022-05-23 00:00:00",2,114
+Tori-shima,"Seismic event","1934-02-16 08:26:58","2017-12-23 13:40:32",5,56
+Tori-shima,"Thermal from Satellite/Airplane","2001-03-30 00:00:00","2022-03-24 00:00:00",2,52
+"Traitor's Head","Seismic event","1945-11-28 08:35:30","2020-12-22 05:03:02",1,815
+Trident,"Seismic event","1957-04-04 00:13:04","2020-12-13 01:02:15",10,20557
+Tungurahua,GPV,"2007-05-12 00:00:00","2022-08-20 00:00:00",5,7904
+Tungurahua,InSAR,"2006-12-23 00:00:00","2010-10-03 00:00:00",1,15
+Tungurahua,Plume,"2007-03-18 00:00:00","2016-03-09 00:00:00",5,1100
+Tungurahua,"Thermal from Satellite/Airplane","2000-04-02 04:00:00","2022-01-09 00:00:00",5,764
+Tupungatito,"Seismic event","1965-10-24 12:24:20","2014-10-25 20:21:47",4,444
+Turrialba,Plume,"2008-04-29 00:00:00","2017-01-23 00:00:00",7,614
+Turrialba,"Seismic event","1909-08-16 06:58:00","2020-05-27 04:15:37",7,532
+Turrialba,"Thermal from Satellite/Airplane","2000-10-06 03:45:00","2021-03-25 00:00:00",8,289
+Ubinas,Plume,"2014-10-30 00:00:00","2017-01-28 00:00:00",1,375
+Ubinas,"Seismic event","1937-03-29 07:49:46","2020-10-12 21:02:58",9,50
+Ubinas,"Thermal from Satellite/Airplane","2000-10-26 03:10:00","2022-05-12 00:00:00",5,428
+"Ukinrek Maars","Seismic event","1967-08-20 00:07:47","2020-11-17 07:57:16",1,1890
+Uksichan,"Seismic event","1966-08-04 13:29:33","2020-09-15 03:41:26",1,17
+Ulawun,"Seismic event","1958-07-28 01:23:05","2020-12-29 10:12:25",34,607
+Ulawun,"Thermal from Satellite/Airplane","2000-09-28 12:45:00","2021-11-25 00:00:00",18,53
+Unnamed0403-03=,"Seismic event","1961-11-15 19:26:59","2020-04-30 04:45:00",2,147
+Unnamed0403-03=,"Thermal from Satellite/Airplane","2001-07-17 00:00:00","2021-09-17 00:00:00",1,67
+Unnamed0403-091,"Seismic event","1960-12-29 06:02:04","2020-12-10 07:17:40",1,170
+Unnamed0500-03-,"Seismic event","1965-04-19 05:21:36","2020-11-30 19:14:14",1,173
+Unnamed0502-001,"Seismic event","1940-04-24 10:22:06","2020-11-07 18:50:40",1,62
+Unnamed0900-061,"Seismic event","1924-06-30 15:44:28","1999-04-21 08:15:43",1,39
+Unnamed0900-16-,"Seismic event","1959-01-04 07:56:27","1999-07-17 15:41:01",1,28
+Unnamed1304-05-,"Seismic event","1966-09-03 16:24:18","2021-08-18 05:16:35",4,49
+Unnamed1305-03-,"Seismic event","1977-01-01 23:24:15","2021-07-08 23:04:18",1,23
+Unnamed1707-02-,"Seismic event","1967-03-30 08:41:08","2018-02-16 03:04:41",1,216
+Unzen,"Seismic event","1919-04-25 21:22:51","2019-02-28 23:48:05",2,40559
+Unzen,"Seismic swarm","1977-01-01 00:00:01","2014-01-31 00:00:00",2,3160
+Usu,"Seismic event","1921-01-25 19:27:51","2019-02-28 14:58:49",3,3857
+Usu,"Seismic swarm","1994-01-01 00:00:00","2014-01-30 00:00:00",1,5595
+Vailulu'u,"Thermal from Satellite/Airplane","2001-05-11 00:00:00","2021-06-19 00:00:00",1,28
+Veniaminof,"Seismic event","1964-03-28 15:39:44","2020-12-06 04:46:51",14,330
+Veniaminof,"Thermal from Satellite/Airplane","2000-10-13 09:00:00","2022-06-01 00:00:00",8,433
+Vestmannaeyjar,"Seismic event","1952-10-19 03:40:35","2010-04-06 15:32:19",2,3
+Vesuvius,"Seismic event","1964-02-18 06:58:17","2020-12-28 08:09:43",1,458
+Villarrica,InSAR,"2007-02-05 00:00:00","2011-02-16 00:00:00",3,13
+Villarrica,InSAR,"2007-03-06 00:00:00","2011-03-17 00:00:00",3,12
+Villarrica,InSAR,"2014-10-11 00:00:00","2015-05-27 00:00:00",1,9
+Villarrica,InSAR,"2014-10-23 00:00:00","2017-05-10 00:00:00",1,27
+Villarrica,Plume,"2011-10-24 00:00:00","2015-05-12 00:00:00",3,203
+Villarrica,"Seismic event","1967-05-07 19:14:27","2013-11-02 07:57:19",19,14
+Villarrica,"Thermal from Satellite/Airplane","2000-04-02 03:50:00","2022-05-15 00:00:00",8,2106
+Vsevidof,"Seismic event","1956-12-03 07:12:44","2020-05-09 09:35:30",1,1560
+Vulcano,"Seismic event","1939-01-27 20:10:15","2020-11-20 11:19:42",1,2610
+"Watt, Morne","Seismic event","1951-05-03 04:08:52","2020-01-15 00:17:06",1,1841
+"West Mata","Seismic event","1956-03-03 00:05:34","2020-12-31 22:19:06",1,921
+Westdahl,"Seismic event","1960-05-15 21:37:08","2020-05-28 12:06:09",4,1740
+"White Island",GPV,"2011-11-10 19:59:00","2017-03-01 19:59:00",3,2457
+"White Island","Seismic event","1940-10-06 17:22:05","2020-12-19 03:57:54",26,8911
+"White Island","Thermal from Satellite/Airplane","2000-12-13 00:00:00","2022-07-03 00:00:00",5,357
+Wolf,InSAR,"1999-06-04 00:00:00","2017-10-10 00:00:00",1,324
+Wolf,"Seismic event","1968-06-12 08:02:33","2020-02-02 10:08:47",3,34
+Wolf,"Thermal from Satellite/Airplane","2001-01-07 00:00:00","2021-03-03 00:00:00",1,855
+Wrangell,"Seismic event","1963-04-25 06:05:13","2018-07-10 00:24:03",3,2201
+Yake-dake,"Seismic event","1919-07-15 02:22:53","2019-02-28 23:58:45",16,50544
+Zao,"Seismic event","1924-01-27 17:38:35","2019-02-28 20:27:07",3,6678
+"Zavaritzki Caldera","Seismic event","1956-10-19 03:20:46","1998-09-28 08:18:17",1,40
+Zavodovski,"Seismic event","1926-06-20 06:54:16","2021-05-03 02:26:20",1,551
+Zheltovsky,"Seismic event","1953-06-23 13:53:39","2020-10-06 03:38:41",1,366
+Zhupanovsky,"Seismic event","1942-08-29 00:57:36","2020-12-22 12:09:00",5,1018
+Zhupanovsky,"Thermal from Satellite/Airplane","2000-09-03 00:00:00","2021-11-09 00:00:00",3,29
+"Zubair Group","Seismic event","1979-08-15 02:20:43","2019-09-15 06:03:18",2,161
+"Zubair Group","Thermal from Satellite/Airplane","2000-11-04 00:00:00","2022-02-02 00:00:00",2,34

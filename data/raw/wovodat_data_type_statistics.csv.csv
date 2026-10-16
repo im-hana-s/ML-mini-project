@@ -1,0 +1,18 @@
+﻿"Type of data","No. of Volcano","No. of Eurption"
+"Directly sampled gas",1,1
+EDM,2,2
+GPS,8,30
+GPV,19,43
+Hydrology,2,3
+InSAR,19,43
+Meteorology,3,8
+Plume,25,132
+"Plume from Satellite/Airplane",7,13
+"Seismic event",361,2669
+"Seismic swarm",17,80
+"Single station event",12,53
+"Soil efflux",1,1
+Thermal,4,21
+"Thermal from Satellite/Airplane",185,774
+Tilt,7,22
+"Volcanic tremor",5,20
