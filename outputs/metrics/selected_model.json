@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "n_estimators": 100
+  },
+  "development_log_loss": 0.004845112664385693
+}

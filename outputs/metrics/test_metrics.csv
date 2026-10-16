@@ -1,0 +1,2 @@
+test_accuracy,test_precision,test_recall,test_f1,test_cohen_kappa,test_auroc,test_auroc_note,test_interpretation_note,test_rows,test_positive_count,test_negative_count,selected_params
+1.0,1.0,1.0,1.0,,,Undefined because the chronological test period contains only one class.,Test scores do not measure discrimination because the test period has one class.,427,427,0,"{'max_depth': None, 'min_samples_leaf': 1, 'n_estimators': 100}"

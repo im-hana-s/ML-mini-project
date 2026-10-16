@@ -1,0 +1,7 @@
+{
+  "baseline_accuracy": 1.0,
+  "baseline_precision": 1.0,
+  "baseline_recall": 1.0,
+  "baseline_f1": 1.0,
+  "baseline_cohen_kappa": null
+}

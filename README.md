@@ -47,10 +47,14 @@ Outputs:
 - `outputs/figures/magnitude_distribution.png`
 - `outputs/figures/daily_earthquake_counts.png`
 - `outputs/figures/confusion_matrix.png`
-- `outputs/figures/roc_curve.png` (when test data contains both classes)
+- `outputs/figures/roc_curve.png` (an ROC plot when test data contains both classes; otherwise an explanation that ROC is undefined)
 - `outputs/figures/feature_importance.png`
-- `outputs/metrics/test_metrics.csv` and `.json`
+- `outputs/metrics/test_metrics.csv` and `test_metrics.json`
 - `outputs/metrics/baseline_metrics.json`
+- `outputs/metrics/split_info.json`
+- `outputs/metrics/selected_model.json`
+- `outputs/metrics/model_search.csv`
+- `outputs/metrics/classification_report.txt`
 - `models/random_forest.joblib`
 
 Optional prediction for a CSV that already contains the seven engineered feature columns:
@@ -71,7 +75,7 @@ This predicts the contemporaneous label defined for the project, not an eruption
 Counts use prior timestamps only. The earliest records without a full rolling history are omitted.
 
 ## 6. Model and evaluation
-A Random Forest classifier is selected by development-period AUROC. The chronological split is 70% train, 20% development, 10% test. Final metrics are reported on the last 10% only. Review the class distribution in each period; if a period lacks one class, AUROC is undefined and the time coverage/labeling must be investigated.
+A Random Forest classifier is selected by development-period AUROC when the chronological development period contains both classes. If it contains only one class, the script selects by log loss and prints a warning; this fallback does not measure the model's ability to distinguish eruption from repose. The chronological split is 70% train, 20% development, 10% test. Final metrics are reported on the last 10% only. Test AUROC is reported as undefined when that period lacks either class. Review split class counts and investigate time coverage and eruption labels before drawing conclusions.
 
 Metrics include AUROC, Cohen's kappa, precision, recall, F1 and accuracy. Compare with the majority-class baseline. Do not insert the reference paper's results as your own results.
 
