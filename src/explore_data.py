@@ -2,6 +2,8 @@ from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from data_utils import normalize_earthquake_columns
+
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT / "data" / "raw"
 FIGURES = ROOT / "outputs" / "figures"
@@ -11,7 +13,7 @@ path = RAW / "earthquakes.csv"
 if not path.exists():
     raise FileNotFoundError(f"Place earthquake catalog at {path}")
 
-df = pd.read_csv(path)
+df = normalize_earthquake_columns(pd.read_csv(path))
 required = ["time", "latitude", "longitude", "depth", "magnitude"]
 missing = sorted(set(required) - set(df.columns))
 if missing:
@@ -21,13 +23,14 @@ df["time"] = pd.to_datetime(df["time"], utc=True, errors="coerce")
 for col in required[1:]:
     df[col] = pd.to_numeric(df[col], errors="coerce")
 before = len(df)
+missing_values = df[required].isna().sum()
 df = df.dropna(subset=required).sort_values("time")
 print(f"Rows read: {before}; rows with required fields: {len(df)}")
 print(f"Time range: {df.time.min()} to {df.time.max()}")
 print("\nSummary:")
 print(df[required[1:]].describe())
 print("\nMissing values in original data:")
-print(pd.read_csv(path)[required].isna().sum())
+print(missing_values)
 print("\nPotential exact duplicate rows:", df.duplicated(subset=required).sum())
 
 plt.figure(figsize=(8, 5))
